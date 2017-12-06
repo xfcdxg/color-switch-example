@@ -19,8 +19,8 @@
   },
   "homepage": "https://github.com/xfcdxg/color-switch-example#readme",
   "dependencies": {
-    "color-switch": "^1.0.1",
     "babel-plugin-import": "^1.6.2",
+    "color-switch": "^1.0.1",
     "hex-rgb": "^1.0.0",
     "next": "^4.2.0",
     "ramda": "^0.25.0",
