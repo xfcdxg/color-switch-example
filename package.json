@@ -1,0 +1,30 @@
+{
+  "name": "color-switch-example",
+  "version": "1.0.0",
+  "description": "color switch example",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next -p 3003",
+    "build": "NODE_ENV=production next build",
+    "export": "next export"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xfcdxg/color-switch-example.git"
+  },
+  "author": "zhou",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xfcdxg/color-switch-example/issues"
+  },
+  "homepage": "https://github.com/xfcdxg/color-switch-example#readme",
+  "dependencies": {
+    "color-switch": "^1.0.1",
+    "babel-plugin-import": "^1.6.2",
+    "hex-rgb": "^1.0.0",
+    "next": "^4.2.0",
+    "ramda": "^0.25.0",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0"
+  }
+}
